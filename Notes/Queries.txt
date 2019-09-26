@@ -1,0 +1,15 @@
+1) List all indices
+GET /_cat/indices?v
+
+2) Create an index
+PUT /customer
+GET /_cat/indices?v
+
+3) Delete an index
+DELETE /customer
+
+4) Put data
+PUT /customer/doc/1
+{
+  "name": "John Doe"
+}
