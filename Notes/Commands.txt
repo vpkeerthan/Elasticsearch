@@ -1,0 +1,5 @@
+1) Start elasticsearch
+sudo systemctl start elasticsearch.service
+
+2) Stop elasticsearch
+sudo systemctl stop elasticsearch.service
