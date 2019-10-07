@@ -2,5 +2,5 @@
 
 1) ElasticsearchDemo : Maven Project to demonstrate elasticsearch
 
-2) Kibana Dashboard
+2) Kibana Dashboard : 
 http://localhost:5601/app/kibana#/dashboard/160c1780-e354-11e9-abe2-0bdfcd4eaf77?_g=(filters:!())&_a=(description:'',filters:!(),fullScreenMode:!f,options:(hidePanelTitles:!f,useMargins:!t),panels:!((embeddableConfig:(),gridData:(h:15,i:'1',w:24,x:0,y:0),id:'4bb1f160-e6b6-11e9-8543-9d10cf6cb67d',panelIndex:'1',type:visualization,version:'7.3.2'),(embeddableConfig:(),gridData:(h:15,i:'2',w:24,x:24,y:0),id:ef4b4f70-e6b5-11e9-8543-9d10cf6cb67d,panelIndex:'2',type:visualization,version:'7.3.2'),(embeddableConfig:(),gridData:(h:15,i:'3',w:24,x:0,y:15),id:'695f6060-e6b8-11e9-8543-9d10cf6cb67d',panelIndex:'3',type:visualization,version:'7.3.2'),(embeddableConfig:(),gridData:(h:15,i:'4',w:24,x:24,y:15),id:a57b82e0-e87a-11e9-8543-9d10cf6cb67d,panelIndex:'4',type:visualization,version:'7.3.2'),(embeddableConfig:(),gridData:(h:15,i:'5',w:24,x:0,y:30),id:'3a448350-e87f-11e9-8543-9d10cf6cb67d',panelIndex:'5',type:visualization,version:'7.3.2'),(embeddableConfig:(),gridData:(h:15,i:'6',w:24,x:24,y:30),id:'02921710-e87f-11e9-8543-9d10cf6cb67d',panelIndex:'6',type:visualization,version:'7.3.2')),query:(language:kuery,query:''),timeRestore:!f,title:Status_Strength_Monitoring_Dashboard,viewMode:view)
